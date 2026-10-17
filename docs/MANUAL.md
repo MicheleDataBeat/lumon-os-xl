@@ -2,7 +2,7 @@
 
 For the first-generation Korg Volca Sample. Version 1.0.2 identifies itself as
 LUMON OS at startup. Install it with
-[Volca Studio XL 1.0.0](https://github.com/MicheleDataBeat/volcastudio-xl-releases#firmware). This manual describes firmware **1.0.2**.
+[Volca Studio XL](https://github.com/MicheleDataBeat/volcastudio-xl-releases#firmware). This manual describes firmware **1.0.2**.
 
 A [DataBeat](https://micheledatabeat.github.io/) project.
 

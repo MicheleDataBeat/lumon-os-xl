@@ -1,9 +1,7 @@
 # Changelog
 
-LUMON OS XL is installed with
-[Volca Studio XL 1.0.0](https://github.com/MicheleDataBeat/volcastudio-xl-releases/releases/tag/v1.0.0),
-which builds the current version from Korg's own 1.42 updater. Earlier versions
-are no longer offered.
+LUMON OS XL is installed with [Volca Studio XL](https://github.com/MicheleDataBeat/volcastudio-xl-releases/releases/latest), which builds the
+current version from Korg's own 1.42 updater.
 
 ## v1.0.2 — 17 October 2026 (current)
 

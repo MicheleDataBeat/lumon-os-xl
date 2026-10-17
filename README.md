@@ -9,22 +9,22 @@ Build rhythms that change across eight bars, place hits ahead of or behind the
 beat, play samples in a scale, and turn a phrase into a repeat, a backcue or a
 lo-fi loop.
 
-> ## ➜ Install LUMON OS XL v1.0.2 with Volca Studio XL 1.0.0
+> ## ➜ Install LUMON OS XL v1.0.2 with Volca Studio XL
 >
 > **This repository contains documentation only: no firmware, no updater and no
 > code.** LUMON OS XL is installed with the free companion application
-> **[Volca Studio XL 1.0.0](https://github.com/MicheleDataBeat/volcastudio-xl-releases/releases/tag/v1.0.0)**,
+> **[Volca Studio XL](https://github.com/MicheleDataBeat/volcastudio-xl-releases/releases/latest)**,
 > which builds it on your computer from Korg's own updater:
 >
-> 1. **Download Volca Studio XL 1.0.0** for Windows, macOS or Linux from its
->    [release page](https://github.com/MicheleDataBeat/volcastudio-xl-releases/releases/tag/v1.0.0).
+> 1. **Download Volca Studio XL** for Windows, macOS or Linux from its
+>    [latest release](https://github.com/MicheleDataBeat/volcastudio-xl-releases/releases/latest).
 > 2. **Download Korg's official updater.** On Korg's
 >    [volca sample download page](https://www.korg.com/us/support/download/software/0/370/1475/),
 >    read Korg's licence agreement and download **System Updater 1.42**
 >    (`volcasample_updater_1_42.zip`). Keep it unchanged.
 > 3. **Patch it in Studio.** Add the zip in **Reintegration** (WMC),
 >    **Severance** (Outie) or **Firmware** (Innie). Studio builds LUMON OS XL
->    v1.0.2, bit-identical to the release, and keeps Korg 1.42 for restoring.
+>    v1.0.2, checks the result and keeps Korg 1.42 for restoring.
 > 4. **Flash it.** Connect the computer to the Volca's **SYNC IN**, power on
 >    holding **FUNC + PLAY** until **UPdt** appears, follow Studio's guided
 >    update and wait for **End**.
